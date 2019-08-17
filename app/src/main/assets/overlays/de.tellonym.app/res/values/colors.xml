@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background_dark">#ff000000</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+    <color name="background_material_dark">#ff000000</color>
+    <color name="cardview_dark_background">#ff000000</color>
 </resources>
