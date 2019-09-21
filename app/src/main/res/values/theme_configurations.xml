@@ -20,6 +20,6 @@
     <string name="ThemeHeroOverride">dark</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Added Sipgate Satellite</item>
+        <item>More for satellite</item>
     </string-array>
 </resources>

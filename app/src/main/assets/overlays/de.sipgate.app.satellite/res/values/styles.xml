@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="SettingsLabelRowDescription">
-    <item name="android:textSize">15.0sp</item>
-    <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="SettingsLabelRowValue">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="SettingsButton">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff0a84ff</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">#ff000000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SettingsActionLabelRowValue">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff0a84ff</item>
+    </style>
+    <style name="SettingsLogoutButton">
+        <item name="android:textColor">@android:color/holo_red_light</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">#ff000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">15.0sp</item>
     </style>
 </resources>
