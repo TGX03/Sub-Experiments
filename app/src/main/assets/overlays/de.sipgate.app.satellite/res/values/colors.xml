@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="dm_gray_dark">#ff141414</color>
-    <color name="dm_gray_darkest">#ff101010</color>
+    <color name="dm_gray_darkest">#ff0e0e0e</color>
+    <color name="orangish">#ff44a5f6</color>
+    <color name="light_orangish">#ffc3e1fa</color>
+    <color name="dark_orangish">#ff2f96eb</color>
 </resources>
